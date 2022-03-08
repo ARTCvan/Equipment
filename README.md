@@ -1,3 +1,9 @@
+# This has now moved over to a Gist, available [here](https://gist.github.com/ARTCvan/de404a78a20747685d3d36a8f617e37c) or [https://gist.github.com/ARTCvan/de404a78a20747685d3d36a8f617e37c](https://gist.github.com/ARTCvan/de404a78a20747685d3d36a8f617e37c) a
+
+# All info below is outdated, and was last edited a while ago.
+
+
+
 # Equipment Description
 Welcome to the equipment area! There is only one proper section, which cleans it up compared to the Google Doc.
 
